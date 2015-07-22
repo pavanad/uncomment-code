@@ -10,12 +10,12 @@ GCC
 
 For only one file
 
-'''bash
+```bash
 bash uncomment-file.sh <input-file>
-'''
+```
 
 For a directory
 
-'''bash
+```bash
 bash uncomment-dir.sh <directory>
-'''
+```
